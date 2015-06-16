@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: smyx
 Donate link: http://blogqun.com/weixin-helper.html
-Tags: post,wechat,weixin,weibo,yixin,订阅号,服务号,微信,微信公众平台,易信,易信公众平台,微博,微博粉丝服务,群发
+Tags: post,posts,admin,ajax,wechat,weixin,weibo,yixin,订阅号,服务号,微信,微信公众平台,易信,易信公众平台,微博,微博粉丝服务,群发
 Requires at least: 3.0
 Tested up to: 1.0
 Stable tag: 4.2.2
