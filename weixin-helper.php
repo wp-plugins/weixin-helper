@@ -87,7 +87,7 @@ if ($tag == 'setting') {
 <p>3. 微信群发内容支持在正文头部和底部插入文字或者图片，用来引导用户关注等。</p>
 <p>4. 支持从微信公众平台网站同步素材到本地，方便在您的网站一键群发，也支持在本地创建群发素材，其中永久素材能同步到微信公众平台网站。</p>
 <p>5. 支持客服群发，即不限制群发次数，但是只能群发给48小时内跟您的公众号有互动的粉丝（比如用户发送消息，关注/订阅事件，点击自定义菜单，扫描二维码事件等）。</p>
-<p>零售价：99元（人民币）或者 $20 USD。购买地址: <a href="http://blogqun.com/weixin-helper.html" target="_blank">http://blogqun.com/weixin-helper.html</a></p>
+<p>零售价：199元（人民币）或者 $37 USD。购买地址: <a href="http://blogqun.com/weixin-helper.html" target="_blank">http://blogqun.com/weixin-helper.html</a></p>
 <p>购买后，请在<a href="http://blogqun.com/download" target="_blank">这里</a>下载安装包上传。可以先删除这个插件的目录<code>weixin-helper</code>，在wp后台上传zip安装插件或者ftp使用<a href="http://blogqun.com/help/ftp.html" target="_blank">二进制上传</a>。</p>
 <?php } elseif ($tag == 'hand') {
 ?>
